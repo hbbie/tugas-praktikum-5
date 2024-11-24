@@ -1,9 +1,14 @@
-# tugas-praktikum-5
-# Tugas Pertemuan 9
-# Biodata
-Nama  :Dhani Naufal Habibie
-NIM   :312410300
-Kelas :TI.24.A.4
+## TUGAS PERTEMUAN 10
+## TUGAS PRAKTIKUM 5
+
+
+
+# Nama    :Dhani Naufal Habibie
+# Kelas   :TI.24.A4
+# NIM     :312410307
+
+# Matkul  : Bahasa Pemrograman
+# Dosen Pengampu : Agung Nugroho, S.Kom, M.Kom
 
 
 
@@ -383,21 +388,8 @@ Fungsi ini mencetak daftar semua mahasiswa dalam format tabel.
 
 # Hasil
 
-![Screenshot 2024-11-16 203616](https://github.com/user-attachments/assets/31128f1d-08f1-4bc8-ad36-13ee7e6ea6b9)
-
+![Screenshot 2024-11-16 203411](https://github.com/user-attachments/assets/03315397-78f8-4f9c-8316-f63fe1e8be9a)
 
 # Flowchart
-![image](https://github.com/user-attachments/assets/36afe717-4fea-466b-b51a-93ea6b740b26)
 
-
-# Penjelasan Flow Chart
-Pertama mulai
-kedua kita akan melist data data mahasiswa
-ketiga masukkan nama
-keempat masukan nim
-kelima masukan nilai tugas
-keenam masukkan nilai uts
-ketujuh masukkan nilai uas
-kedelapan menghitung nilai akhir (nilai tugas * 0.30)(nilai uts * 0.35)(nilai uas * 0.35)jika sudah lanjut
-kesembilan tambahkan ke list data
-kesepuluh ada dua pilihan jika ingin menambahkan data pilih iya dan kita akan kembali ke langkah ke tiga jika tidak tampilkan tabel data dan terakhir selesai
+![flw](https://github.com/user-attachments/assets/ba56ca58-2107-4679-9b8e-45f802568490)
